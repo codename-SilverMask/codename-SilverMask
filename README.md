@@ -1,4 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/c6dbfbdd-4325-43dc-bbc3-a7bf5e4c5df8)
+
 # 💫 About Me:
 
 Hi! I'm a full-stack developer working on a CRM website using FastAPI. I’m passionate about building scalable and efficient web applications.<br><br>🔧 Currently Learning:<br><br>DevOps (CI/CD, Docker, Deployment Strategies)<br><br>Python (for scripting, automation, and exploring backend frameworks like FastAPI)<br><br>📌 I’m constantly exploring new tools and technologies to improve my workflow and broaden my skill set. Always up for a challenge and excited to collaborate on interesting projects!
