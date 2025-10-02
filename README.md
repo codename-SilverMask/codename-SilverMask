@@ -2,15 +2,74 @@
 
 # 💫 About Me:
 
-Hi! I'm a full-stack developer working on a CRM website using FastAPI. I’m passionate about building scalable and efficient web applications.<br><br>🔧 Currently Learning:<br><br>DevOps (CI/CD, Docker, Deployment Strategies)<br><br>Python (for scripting, automation, and exploring backend frameworks like FastAPI)<br><br>📌 I’m constantly exploring new tools and technologies to improve my workflow and broaden my skill set. Always up for a challenge and excited to collaborate on interesting projects!
+Hey there! I’m Amaney, a **Front-End Developer** who loves turning ideas into sleek, interactive, and user-friendly web apps.  
+I specialize in crafting modern interfaces using **Next.js, React, Tailwind CSS, ShadCN, Framer Motion, and ReactBits**.  
 
-## 🌐 Socials:
+💡 I enjoy building projects that push my skills forward, from polished UIs to full-stack experiments.  
+🎨 My goal: create web experiences that feel smooth, fast, and delightful.  
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/silvermask) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaney-hussain) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/silvermask) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.amaneyhussain@gmail.com)
+---
 
-# 💻 Tech Stack:
+## 🚀 Featured Projects  
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### ✈️ [FlightFinder – Flight Search & Booking Web App](https://flight-finder-theta.vercel.app/)  
+🔹 *Tech:* Next.js, React, TailwindCSS, ShadCN, Framer Motion  
+🔗 [Live](https://flight-finder-theta.vercel.app/) | [GitHub](https://github.com/codename-SilverMask/FlightFinder.git)  
+
+---
+
+### 🧹 [Mow & Shine – Cleaning Services Website](https://www.mownshine.com/)  
+🔹 *Tech:* Next.js, React, TailwindCSS, Vercel Deployment  
+🔗 [Live](https://www.mownshine.com/) | [GitHub](https://github.com/codename-SilverMask/mow-and-shine.git)  
+
+---
+
+### 🛒 [Modern E-Commerce Storefront](https://e-store-next-js-three.vercel.app/)  
+🔹 *Tech:* Next.js, React, TailwindCSS, Stripe API (Payments)  
+🔗 [Live](https://e-store-next-js-three.vercel.app/) | [GitHub](https://github.com/codename-SilverMask/E-Store-NextJS.git)  
+
+---
+
+### 📊🖊️ [Kanban Board + Annotation Tool](https://kanban-board-deploy.vercel.app/)  
+🔹 *Tech:* React, TypeScript, TailwindCSS, Zustand, Vite  
+🔗 [Live](https://kanban-board-deploy.vercel.app/) | [GitHub](https://github.com/codename-SilverMask/Kanban_Board_Deploy.git)  
+
+---
+
+### 🌐 [Portfolio Website](https://www.amaneyhussain.me/)  
+🔹 *Tech:* React, TailwindCSS, Framer Motion  
+🔗 [Live](https://www.amaneyhussain.me/) | [GitHub](https://github.com/codename-SilverMask/portfolio_react.git)  
+
+---
+
+## 🌐 Connect With Me  
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/silvermask) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaney-hussain) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/silvermask) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.amaneyhussain@gmail.com)  
+
+---
+
+## 💻 Tech Stack  
+
+**Core:**  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![ShadCN](https://img.shields.io/badge/ShadCN-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)  
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=blue) 
+![React Bits](https://img.shields.io/badge/ReactBits-%23121011.svg?style=for-the-badge&logo=react&logoColor=white)  
+
+**Other Tools:**  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+
+---
+
+✨ Always learning, always building. If you’ve got an exciting project, let’s connect!
 
 # 📊 GitHub Stats:
 
