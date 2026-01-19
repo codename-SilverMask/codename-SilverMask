@@ -1,48 +1,48 @@
 ![Image](https://github.com/user-attachments/assets/c6dbfbdd-4325-43dc-bbc3-a7bf5e4c5df8)
 
-# 💫 About Me:
+About Me:
 
-Hey there! I’m Amaney, a **Front-End Developer** who loves turning ideas into sleek, interactive, and user-friendly web apps.  
-I specialize in crafting modern interfaces using **Next.js, React, Tailwind CSS, ShadCN, Framer Motion, and ReactBits**.  
+Hello, I’m Amaney (codename-SilverMask).  
+I build web apps and tools with Python, JavaScript, TypeScript, and PHP.  
+I tackle both frontend and backend challenges as a full-stack developer, and I’m currently diving into data science and AI/ML.
 
-💡 I enjoy building projects that push my skills forward, from polished UIs to full-stack experiments.  
-🎨 My goal: create web experiences that feel smooth, fast, and delightful.  
+Check out my work at www.amaneyhussain.me and explore my repos to see what I’ve been building
 
 ---
 
-## 🚀 Featured Projects  
+Featured Projects  
 
-### ✈️ [FlightFinder – Flight Search & Booking Web App](https://flight-finder-theta.vercel.app/)  
+[FlightFinder – Flight Search & Booking Web App](https://flight-finder-theta.vercel.app/)  
 🔹 *Tech:* Next.js, React, TailwindCSS, ShadCN, Framer Motion  
 🔗 [Live](https://flight-finder-theta.vercel.app/) | [GitHub](https://github.com/codename-SilverMask/FlightFinder.git)  
 
 ---
 
-### 🧹 [Mow & Shine – Cleaning Services Website](https://www.mownshine.com/)  
+[Mow & Shine – Cleaning Services Website](https://www.mownshine.com/)  
 🔹 *Tech:* Next.js, React, TailwindCSS, Vercel Deployment  
 🔗 [Live](https://www.mownshine.com/) | [GitHub](https://github.com/codename-SilverMask/mow-and-shine.git)  
 
 ---
 
-### 🛒 [Modern E-Commerce Storefront](https://e-store-next-js-three.vercel.app/)  
+[Modern E-Commerce Storefront](https://e-store-next-js-three.vercel.app/)  
 🔹 *Tech:* Next.js, React, TailwindCSS, Stripe API (Payments)  
 🔗 [Live](https://e-store-next-js-three.vercel.app/) | [GitHub](https://github.com/codename-SilverMask/E-Store-NextJS.git)  
 
 ---
 
-### 📊🖊️ [Kanban Board + Annotation Tool](https://kanban-board-deploy.vercel.app/)  
+[Kanban Board + Annotation Tool](https://kanban-board-deploy.vercel.app/)  
 🔹 *Tech:* React, TypeScript, TailwindCSS, Zustand, Vite  
 🔗 [Live](https://kanban-board-deploy.vercel.app/) | [GitHub](https://github.com/codename-SilverMask/Kanban_Board_Deploy.git)  
 
 ---
 
-### 🌐 [Portfolio Website](https://www.amaneyhussain.me/)  
+[Portfolio Website](https://www.amaneyhussain.me/)  
 🔹 *Tech:* React, TailwindCSS, Framer Motion  
 🔗 [Live](https://www.amaneyhussain.me/) | [GitHub](https://github.com/codename-SilverMask/portfolio_react.git)  
 
 ---
 
-## 🌐 Connect With Me  
+Connect With Me  
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/silvermask) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaney-hussain) 
@@ -51,7 +51,7 @@ I specialize in crafting modern interfaces using **Next.js, React, Tailwind CSS,
 
 ---
 
-## 💻 Tech Stack  
+Tech Stack  
 
 **Core:**  
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js) 
@@ -69,15 +69,15 @@ I specialize in crafting modern interfaces using **Next.js, React, Tailwind CSS,
 
 ---
 
-✨ Always learning, always building. If you’ve got an exciting project, let’s connect!
+If you’ve got a project, let’s connect and collaborate.
 
-# 📊 GitHub Stats:
+GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=codename-SilverMask&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=codename-SilverMask&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codename-SilverMask&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=codename-SilverMask&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
